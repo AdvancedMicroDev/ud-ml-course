@@ -82,3 +82,5 @@ for key, value in enron_data.items():
     if isPoi and poi_tp == "NaN":
         count_tp_poi += 1
 print(f"NaN tp POI: {count_tp_poi * 100 // len(enron_data.keys())}%")
+
+print(list(enron_data.values())[0])

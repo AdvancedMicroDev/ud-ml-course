@@ -9,8 +9,8 @@ import sys
 # original = "D:\\ud120-projects\\tools\\word_data.pkl"
 # destination = "D:\\ud120-projects\\tools\\word_data_unix.pkl"
 
-original = "D:\\ud120-projects\\final_project\\final_project_dataset.pkl"
-destination = "D:\\ud120-projects\\final_project\\final_project_dataset_unix.pkl"
+original = "D:\\ud120-projects\\tools\\python2_lesson14_keys.pkl"
+destination = "D:\\ud120-projects\\tools\\python2_lesson14_keys_unix.pkl"
 
 content = ''
 outsize = 0
